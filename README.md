@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2026-03-19 134817" src="https://github.com/user-attachments/assets/6b75c6c3-e66e-4539-b942-57bb5c90f249" /># 🪙 Basic Token Creator (Soroban Smart Contract)
+🪙 Basic Token Creator (Soroban Smart Contract)
 
 ## 📖 Project Description
 
